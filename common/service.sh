@@ -6,5 +6,4 @@
 
     cmd overlay enable com.android.systemui.SplitShade
   
-    cmd overlay enable com.android.internal.display.cutout.emulation.none
 }&
